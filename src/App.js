@@ -1,7 +1,7 @@
 const App = () => {
   return (
     <div>
-      <p>moi</p>
+      <p>moi!</p>
       <button>Kivi</button>
       <button>Paperi</button>
       <button>Sakset</button>
